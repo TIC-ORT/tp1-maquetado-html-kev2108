@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+}
+.caja1 {
+    height: 8vh;
+    width: 20vw;
+    background-color:  #c4ecf4;
+}
+.caja2 {
+    height: 8vh;
+    width: 100%;
+    background-color:  #94d4dc;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.cajitablanca {
+    height: 2.2vh;
+    width: 10vw;
+    background-color: white;
+    margin: 20px;
+}
+.cajitaroja {
+    height: 2vh;
+    width: 5vw;
+    background-color: #f48464;
+    margin: 15px;
+}
