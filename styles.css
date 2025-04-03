@@ -26,3 +26,51 @@
     background-color: #f48464;
     margin: 15px;
 }
+
+.middle {
+    display: flex;
+}
+
+.cajasytexto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.lineasgrises {
+    width: 10vw;
+    height: 0.8vh;
+    margin: 5px;
+    background-color: #cccccc;
+}
+
+.cajagrisclaro{
+    margin: 30px;
+    margin-bottom: 10px;
+    height: 23vh;
+    width: 13vw;
+    background-color: #e4e4e4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grisoscuro {
+    height: 10vh;
+    width: 6vw;
+    background-color: #cccccc;
+}
+
+.cajanegra {
+    height: 3vh;
+    width: 6.5vw;
+    background-color: #646c74;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.interior {
+    height: 0.6vh;
+    width: 4vw;
+    background-color: #cccccc;
+}
