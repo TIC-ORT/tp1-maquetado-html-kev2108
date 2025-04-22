@@ -29,6 +29,7 @@
 
 .middle {
     display: flex;
+    width: 100vw;
 }
 
 .cajasytexto {
@@ -122,8 +123,8 @@
 .grid-container {
     margin: 25px;
     display: grid;
-    grid-template-columns: 187px 187px 450px 187px;
-    grid-template-rows: 187px 187px;
+    grid-template-columns: 20vw 20vw 30vw 20vw;
+    grid-template-rows: 20vw 20vw;
     gap: 25px;
 }
 .grid-container div{
